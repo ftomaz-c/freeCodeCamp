@@ -2,6 +2,11 @@
 
 # freeCodeCamp</div>
 
-### HTML and CSS course:
+<div align="center">
+  <p>HTML and CSS course:</p>
+  <a href="https://github.com/ftomaz-c/freeCodeCamp/tree/main/Responsive%20Web%20Design">
+    <img src="img/ResponsiveWebDesign.png" width="50%" height="50%">
+  </a>
+</div>
 
-[<img src="img/ResponsiveWebDesign.png">](https://github.com/ftomaz-c/freeCodeCamp/tree/main/Responsive%20Web%20Design)
+
