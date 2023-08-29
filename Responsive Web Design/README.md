@@ -31,7 +31,7 @@ These projects were completed as part of the freeCodeCamp Responsive Web Design 
 
 Here are the Certification Projects (1 of 5 done):
 
-* [Survey Form](https://github.com/ftomaz-c/freeCodeCamp/tree/main/Responsive%20Web%20Design/Certification%20project) - to collect data from users; ✔️
+* [Survey Form](https://github.com/ftomaz-c/freeCodeCamp/tree/main/Responsive%20Web%20Design/1.certification%20project) - to collect data from users; ✔️
 * Tribute Page;
 * Technical Documentation Page;
 * Product Landing Page;
