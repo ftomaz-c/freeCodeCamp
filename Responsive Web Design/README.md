@@ -1,6 +1,6 @@
 <div align="center">
 
-# Responsive Web Design - freeCodeCamp </div>
+# Responsive Web Design </div>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,5 +38,3 @@ Here are the Certification Projects (1 of 5 done):
 * Personal Portfolio Webpage.
 
 I'll showcase here the 5 projects for this course!
-
-Thank you.
