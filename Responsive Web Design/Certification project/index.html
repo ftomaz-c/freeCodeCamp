@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<meta charset="utf-8">
+		<title>survey-form.agente.pt</title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+
+	<body>
+		<h1 id="title">Inquérito Agente.pt</h1>
+		<p id="description">Obrigado por nos ajudar a melhorar o nosso serviço!</p>
+		<form id="survey-form">
+			<fieldset>
+				<label id="name-label" for="name">Nome <input id="name" type="text" placeholder="Enter your name" required /></label>
+				<label id="email-label" for="email">Email <input id="email" type="email" placeholder="Enter your Email" required /></label>
+				<label id="number-label" for="number">Idade (opcional) <input id="number" type="number" placeholder="Age" min="13" max="120" /></label>
+			</fieldset>
+			<fieldset>
+				<label for="dropdown">Como ficou a conhecer o Agente.pt
+					<select id="dropdown">
+						<option value="">Selecione uma opção</option>
+						<option value="1">Google</option>
+						<option value="2">Instagram</option>
+						<option value="3">Facebook</option>
+						<option value="4">Foi-me recomendado</option>
+						<option value="5">Other</option>
+					</select>
+				</label>
+			</fieldset>
+			<fieldset>
+				<label for="recommend">Recomendaria o Agente.pt a um amigo?</label>
+				<label for="definitely"><input id="definitely" name="recommend" type="radio" class="inline" value="definitely" />Sim</label>
+				<label for="maybe"><input id="maybe" name="recommend" type="radio" class="inline" value="maybe" />Talvez</label>
+				<label for="not-sure"><input id="not-sure" name="recommend" type="radio" class="inline" value="not-sure" />Não tenho a certeza</label>
+				<label for="not"><input id="not" name="recommend" type="radio" class="inline" value="not" />Não</label>
+			</fieldset>
+			<fieldset>
+				<label for="dropdown">Quantos seguros tem connosco?
+					<select id="dropdown">
+						<option value="">Selecione uma opção</option>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">mais de 2</option>
+						<option value="4">todos</option>
+					</select>
+				</label>
+			</fieldset>
+			<fieldset>
+				<label for="checkbox-group">Por onde prefere que entremos em contacto consigo?</label>
+				<div id="checkbox-group">
+					<label for="email"><input id="email" name="communication" type="checkbox" class="inline" value="email" /> Email</label>
+					<label for="telephone"><input id="telephone" name="communication" type="checkbox" class="inline" value="telephone"/> Telefone</label>
+					<label for="sms"><input id="sms" name="communication" type="checkbox" class="inline" value="sms" /> SMS</label>
+					<label for="whatsapp"><input id="whatsapp" name="communication" type="checkbox" class="inline" value="whatsapp" /> WhatsApp</label>
+				</div>
+			</fieldset>
+			<fieldset>
+				<label for="comments-suggestions">Comentários e Sugestões
+					<textarea id="comments-suggestions" name="comments-suggestions" row="5" cols="30" placeholder="Escreva aqui um comentário" ></textarea>
+				</label>
+			</fieldset>
+			<input id="submit" type="submit" value="Submit" />
+		</form>
+	</body>
+</html>
