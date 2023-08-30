@@ -18,13 +18,13 @@ This course is divided in 5 parts. At the end of each part there is a related pr
 
 ### What I've done so far:
 
-🌐 **A Cat Photo App** - to learn the most common HTML tags;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 **A Cat Photo App** - to learn the most common HTML tags;
 
-🍰 **A Cafe Menu** - to learn CSS by designing a webpage;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍰 **A Cafe Menu** - to learn CSS by designing a webpage;
 
-🎨 **A set of colored markers** - to learn different ways to set color values and how to pair colors with each other;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎨 **A set of colored markers** - to learn different ways to set color values and how to pair colors with each other;
 
-📋 **A registration Form** - to learn HTML forms by building a sign-up page and some new CSS tools for styling a page.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📋 **A registration Form** - to learn HTML forms by building a sign-up page and some new CSS tools for styling a page.
 
 ### Certification Projects
 
