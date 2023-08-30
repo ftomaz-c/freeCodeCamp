@@ -11,7 +11,7 @@
 
 ## Welcome to my Responsive Web Design Portfolio! 🚀
 
-In this repository I'll showcase my journey in building webpages that can adapt  across various devices and screen sizes. It is an attempt of learn more about HTML and CSS for web development.
+In this repository I'll showcase my journey in building webpages. It is an attempt of learn more about HTML and CSS for web development.
 
 This course is divided in 5 parts and at the end of each part there is a related project. These projects are required to get the certification.
 
